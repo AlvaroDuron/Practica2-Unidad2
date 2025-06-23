@@ -1,0 +1,7 @@
+# Políticas de Merge
+
+Solo se permite Squash Merge.
+Todas las PR deben:
+  - Pasar pruebas automáticas (simuladas).
+  - Ser revisadas por al menos un integrante.
+  - Tener una descripción clara del cambio.
